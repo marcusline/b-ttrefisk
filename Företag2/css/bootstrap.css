@@ -53,7 +53,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 #body{
   width: 100%;
-  height: 900px;
+  height: 1250px;
   background-color:#555;
 }
 
@@ -64,13 +64,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 #body2{
   width: 100%;
   height: 1050px;
-  background-color: grey;
+  background-color: #555;
 }
 
 #body3{
   width: 100%;
   height: 1900px;
-  background-color: grey;
+  background-color: #555;
 }
 
 #head{
