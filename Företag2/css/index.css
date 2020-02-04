@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.carousel{
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    
+}
+
+.carousel-control-prev{
+    height: 50vh;
+
+}
+.carousel-control-next{
+    height:50vh;
+}
+
+.col-lg{
+    height: 20vh;
+    background-color: white;
+    margin-top: 40px;
